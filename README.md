@@ -6,7 +6,7 @@
   This approach, inspired by Edward Tufte's data visualization techniques, employs color-graded diagrams to 
   represent various quality metrics, facilitating better communication with stakeholders about software 
   improvements, risks, and areas needing investment. It aims to make the state and progress of foundational 
-  software components more comprehensible, especially to non-technical audiences. Read the full details here.
+  software components more comprehensible, especially to non-technical audiences.
 
 # Tools
 - [https://diceware.dmuth.org/](url)
