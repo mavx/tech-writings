@@ -8,6 +8,9 @@
   represent various quality metrics, facilitating better communication with stakeholders about software 
   improvements, risks, and areas needing investment. It aims to make the state and progress of foundational 
   software components more comprehensible, especially to non-technical audiences.
+- http://book.mixu.net/distsys/single-page.html
+  Distributed systems for fun and profit - ideas behind more recent distributed systems like Dynamo, BigTable,
+  MapReduce, Hadoop
 
 # Tools
-- [https://diceware.dmuth.org/](url)
+- https://diceware.dmuth.org/ - useful CLI for generating memorable phrase
