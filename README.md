@@ -11,6 +11,7 @@
 - http://book.mixu.net/distsys/single-page.html
   Distributed systems for fun and profit - ideas behind more recent distributed systems like Dynamo, BigTable,
   MapReduce, Hadoop
+- http://www.catb.org/~esr/writings/taoup/html/ch01s06.html
 
 # Tools
 - https://diceware.dmuth.org/ - useful CLI for generating memorable phrase
